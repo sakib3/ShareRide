@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/sakib/Desktop/ShareRide/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/sakib/Desktop/ShareRide/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/sakib/Desktop/ShareRide/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
